@@ -8,7 +8,7 @@ You will know what is `cList`,
 You will know what is `sString`. ^o^      
 
 ```{java}
-private String new_func(String str) {
+private String newFunc(String str) {
         String m;
         int n = 0;
         String ss = str;
