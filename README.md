@@ -2,9 +2,9 @@
 
 **To ask a question please submit an issue or message.**
 
-**Please kindly star the project before using it. ←_←**      
+**Please kindly star the project before using it. ←v←**      
 
-**Please kindly give credit to the original author when you use it elsewhere. →_→**
+**Please kindly give credit to the original author when you use it elsewhere. →v→**
 
 
 
