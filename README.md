@@ -1,7 +1,8 @@
 # geetest crack 2*3.0.0
 geetest 2*3.0.0 version crack 
 
-Please kindly star before using it. ←_←      
+**Please kindly star before using it. ←_←**      
+
 Focus on line 6132 in js file and the following code does some magic.  
 
 You will know what is `str`,      
