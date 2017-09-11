@@ -1,4 +1,4 @@
-# geetest crack 2*3.0.0
+# 极验 geetest crack 2*3.0.0
 **Please kindly star the project before using it. ←_←**      
 
 Focus on line 6132 in js file and the following code does some magic.  
