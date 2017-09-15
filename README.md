@@ -6,7 +6,7 @@
 
 **Please kindly give credit to the original author when you use it elsewhere. →v→**
 
-
+ 
 
 Focus on line 6132 in js file and the following code does some magic.  
 
