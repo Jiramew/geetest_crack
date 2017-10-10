@@ -12,7 +12,7 @@ Focus on line 6132 in js file and the following code does some magic.  
 
 You will know what is `str`,      
 You will know what is `cList`,      
-You will know what is `sString`. ^o^      
+You will know what is `sString`.  ^o^      
 
 ```{java}
 private String newFunc(String str) {
